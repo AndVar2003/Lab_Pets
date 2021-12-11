@@ -1,0 +1,10 @@
+Vasiliy,cat,Pushok,1
+Andrew,dog,Mukhtar,10
+Pavel,fish,,1
+Pavel,fish,,1
+Pavel,fish,,1
+Pavel,fish,,1
+Pavel,fish,,1
+Alex,cat,Markiz,15
+Tanya,cat,Anfisa,11
+Maxim,dog,Chip,7
